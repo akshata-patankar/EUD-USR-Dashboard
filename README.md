@@ -1,4 +1,3 @@
-# EUD-USR-Dashboard
 ## EUR/USD Price & Volatility Dashboard
 
 This project presents an interactive financial analytics dashboard analyzing historical **EUR/USD exchange rate** data. The dashboard explores price trends, volatility patterns, and short-term returns to support exploratory financial analysis and market research.
