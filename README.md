@@ -16,10 +16,6 @@ This project presents an interactive financial analytics dashboard analyzing his
 * Key KPIs including highest, lowest, and average price
 * Interactive filters for exploring historical exchange rate trends
 
-#### Dashboard Preview
-
-![Dashboard Preview](EUR_USR-Dashboard/ss1.PNG)
-
 ### Use Case
 The dashboard enables users to analyze historical currency behavior, monitor volatility trends, and explore price movements of the EUR/USD pair through an interactive BI interface.
 The dashboard enables users to analyze historical currency behavior, monitor volatility trends, and explore price movements of the EUR/USD pair through an interactive BI interface.
